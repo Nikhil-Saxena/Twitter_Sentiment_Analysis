@@ -8,7 +8,7 @@
 
 ###Files: 
 
-- analysis.py : The Director of the code. (main)
+- analysis.py : The director of the code. (main)
 - assignSentiments.py : lists through the tweets and asks to classify the tweets for the training and test sets.
 - getTweets.py : fetches the tweets having the track words from the twitter stream.
 - sortSentimentFiles: list the sorted tweets into their respective sentiment files (not required, used for analysis only)
