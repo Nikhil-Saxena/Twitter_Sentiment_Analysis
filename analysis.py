@@ -4,7 +4,6 @@ from nltk.corpus import stopwords
 from nltk.stem.snowball import SnowballStemmer
 import random
 import re
-import matplotlib.pyplot as plt
 
 stop = stopwords.words('english')
 stemmer = SnowballStemmer("english", ignore_stopwords=True)
